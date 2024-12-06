@@ -1,0 +1,10 @@
+{
+    "id_name": "e_xampp_installer",
+    "version": 1,
+    "author": "tom",
+    "name": "XAMPP Installer",
+    "description": "",
+    "dependencies": {
+        "is_admin":1
+    }
+}
